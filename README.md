@@ -18,7 +18,7 @@ Para trabajar con los proyectos de este repositorio, se recomienda tener instala
 
 1. **Clonar el Repositorio**:
 
-   git clone https://github.com/Fariiixm/TECNOLOGIA-DE-COMPUTADORES.git
+   git clone https://github.com/Fariiixm/TECNOLOGIA-DE-COMPUTADORES.git \n
    cd TECNOLOGIA-DE-COMPUTADORES
    
 2. **Abrir el Proyecto en el Entorno de Desarrollo**:
